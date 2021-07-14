@@ -1,14 +1,13 @@
+<h1 align="center">Hi 👋, I'm hafiz ihsan.ck🎉</h1>
 
-###<h1 align="center">Hi 👋, I'm hafiz ihsan.ck🎉</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- <h1 align="center">🔭 I’m student🧑</h1>
+- <h1>🔭 I’m student🧑</h1>
 
 - 🤝 I’m looking for help with [Telegram](https://t.me/ihsan_bin_ahmd)
 
-- 👨‍💻 i am [Telegram](https://t.me/ihsan_bin_ahmd) project Only
+- 👨‍💻 i am [Telegram](https://t.me/ihsan_bin_ahmd) project Only. eg:- <b>Bots,Chennal,Programs,</b>
 
-- *💬 Ask me about*  [![telegram badge](https://img.shields.io/badge/-ihsan_bin_ahmd-blue?style=flat&logo=telegram)](https://t.me/ihsan_bin_ahmd)
+- 💬 Ask me about*  [![telegram badge](https://img.shields.io/badge/-ihsan_bin_ahmd-blue?style=flat&logo=telegram)](https://t.me/ihsan_bin_ahmd)
 
 - ⚡ Fun fact black tea☕
 
@@ -28,5 +27,5 @@ You can use the website to generate badges: https://shields.io/
 </p> <p align="left">
 <a href="https://t.me/ihsan_bin_ahmd" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizihsanck&show_icons=true&locale=en" alt="hafizihsanck" /></p>
+<p>;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizihsanck&show_icons=true&locale=en" alt="hafizihsanck" /></p>
 
