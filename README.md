@@ -27,5 +27,5 @@ You can use the website to generate badges: https://shields.io/
 </p> <p align="left">
 <a href="https://t.me/ihsan_bin_ahmd" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="50" width="50" /></a>
 
-<p>;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizihsanck&show_icons=true&locale=en" alt="hafizihsanck" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizihsanck&show_icons=true&locale=en" alt="hafizihsanck" /></p>
 
