@@ -1,30 +1,33 @@
-## Welcome to Hafiz Ihsan World
+##
+<h1 align="center">Hi 👋, I'm hafiz ihsan.ck🎉</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-### Markdown
+- <h1 align="center">🔭 I’m student🧑</h1>
 
-```markdown
+- 🤝 I’m looking for help with [Telegram](https://t.me/ihsan_bin_ahmd)
 
-# My Education
-## My life
-### My Gallery
+- 👨‍💻 i am [Telegram](https://t.me/ihsan_bin_ahmd) project Only
 
-- Bulleted
-- List
+- 📝 I regularly write articles on [ihsan_bin_ahmd](https://t.me/ihsan_bin_ahmd)
 
-1. Numbered
-2. List
+- *💬 Ask me about*  [![telegram badge](https://img.shields.io/badge/-ihsan_bin_ahmd-blue?style=flat&logo=telegram)](https://t.me/ihsan_bin_ahmd)
 
-**Bold** and _Italic_ and `Code` text
+- ⚡ Fun fact black tea☕
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
+[![email](https://img.shields.io/badge/-ihsan_bin_ahmd-c14438?style=flat&logo=Gmail&logoColor=white)](bin_ahmd:ihsanbinahmd@gmail.com)
+&nbsp;
 
-[Link](url) and ![Image](src)
-```
+### Contact
+- [![telegram badge](https://img.shields.io/badge/-bi.ahmd-blue?style=flat&logo=telegram)](https://t.me/ihsan_bin_ahmd)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/ihsan bin ahmd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ihsan bin ahmd" height="30" width="40" /></a>
+<a href="https://instagram.com/ihsan_bin_ahmd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ihsan_bin_ahmd" height="30" width="40" /></a>
+</p> <p align="left">
+<a href="https://t.me/ihsan_bin_ahmd" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp
 
-### Jekyll Themes
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizihsanck&show_icons=true&locale=en" alt="hafizihsanck" /></p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hafizihsanck/hafizihsanck.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
