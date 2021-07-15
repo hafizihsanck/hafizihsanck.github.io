@@ -33,6 +33,7 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://fb.com/ihsan bin ahmd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ihsan bin ahmd" height="40" width="50" /></a>
 <a href="https://instagram.com/ihsan_bin_ahmd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ihsan_bin_ahmd" height="40" width="50" /></a>
 <a href="https://t.me/ihsan_bin_ahmd" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="50" width="50" /></a>
+<a href="https://github.com/hafizihsanck" target="blank"><img align="center" src="https://telegra.ph/file/f882466508318fc6a24d5.png" alt="bhanot_kushal" height="50" width="50" /></a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizihsanck&show_icons=true&locale=en" alt="hafizihsanck" /></p>
 
