@@ -18,9 +18,9 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 ### Contact
-- [![telegram badge](https://img.shields.io/badge/-bi.ahmd-blue?style=flat&logo=telegram)](https://t.me/ihsan_bin_ahmd)
+- [![telegram badge](https://img.shields.io/badge/-Hᴀʟᴇᴇᴍᴀ_Jɪɴᴀ-blue?style=flat&logo=telegram)](https://t.me/Haleema_Jina)
 
-<h3 align="left">🔗My Social profiles:</h3>
+<h3 align="left">🔗My Social Media profiles:</h3>
 <p align="left">
 <a href="https://fb.com/ihsan bin ahmd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ihsan bin ahmd" height="40" width="50" /></a>
 <a href="https://instagram.com/ihsan_bin_ahmd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ihsan_bin_ahmd" height="40" width="50" /></a>
