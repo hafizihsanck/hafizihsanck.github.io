@@ -7,7 +7,7 @@
 - 👨‍💻 i am [Telegram](https://t.me/ihsan_bin_ahmd) project Only. 
 eg:- <b>Bots,Chennal,Programs,</b>
 
-- 💬 Ask me about*  [![telegram badge](https://img.shields.io/badge/-ihsan_bin_ahmd-blue?style=flat&logo=telegram)](https://t.me/ihsan_bin_ahmd)
+- 💬 Ask me about [![telegram badge](https://img.shields.io/badge/-ihsan_bin_ahmd-blue?style=flat&logo=telegram)](https://t.me/ihsan_bin_ahmd)
 
 - ⚡ Fun fact black tea☕
 
