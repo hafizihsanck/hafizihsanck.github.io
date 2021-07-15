@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm hafiz ihsan.ck🎉</h1>
+<h3 align="left">About</h3>
 
+```markdown
+My Name is : Mohammed ihsan C.K
+My Father Name : Kunahammed C.K
+My Mother Name : Saheera C.C
+My Birth Date : 9/2/2006
+My place : Palakkad.pattambi.Karukapathoor. Cheenamkunnath House
+
+```
 - 🔭 I’m student🧑
 
 - 🤝 I’m looking for help with [Telegram](https://t.me/ihsan_bin_ahmd)
