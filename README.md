@@ -2,11 +2,11 @@
 <h3 align="left">About</h3>
 
 ```markdown
-My Name is : Mohammed ihsan C.K
-My Father Name : Kunahammed C.K
-My Mother Name : Saheera C.C
-My Birth Date : 9/2/2006
-My place : Palakkad.pattambi.Karukapathoor. Cheenamkunnath House
+- My Name is : Mohammed ihsan C.K
+- My Father Name : Kunahammed C.K
+- My Mother Name : Saheera C.C
+- My Birth Date : 9/2/2006
+- My place : Palakkad.pattambi.Karukapathoor. Cheenamkunnath House
 
 ```
 - 🔭 I’m student🧑
