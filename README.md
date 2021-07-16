@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm     hafiz ihsan.ck🎉</h1>
+<a href="https://ihsanhafiz.github.io" target="blank"><img align="center" src="https://telegra.ph/file/bf1c32ee20d1c25680b40.jpg" alt="bhanot_kushal"/></a>
+
 <h3 align="left">About</h3>
 
 ```markdown
